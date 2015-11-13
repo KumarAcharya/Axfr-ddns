@@ -1,0 +1,5 @@
+aic-designate-ddns (1.0-1) UNRELEASED; urgency=medium
+
+  * Initial release. (Closes: #XXXXXX)
+
+ -- Ram Sateesh Talari <rt251j@att.com>  Mon, 09 Nov 2015 14:33:06 +0530
